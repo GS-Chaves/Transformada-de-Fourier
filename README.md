@@ -1,7 +1,7 @@
 # Transformada de Fourier
 
 <p align="center">
-    <img src="image.png" alt="Transformada de Fourier" width="500" />
+    <img src="TransformadaFourier.png" alt="Transformada de Fourier" width="100%" />
 </p>
 
 Este projeto demonstra como uma soma de uma senoide fundamental com suas hármonicas se transforma numa onda quadrada.
