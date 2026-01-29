@@ -21,7 +21,7 @@ Este projeto demonstra como uma soma de uma senoide fundamental com suas hármon
 - Em seguida execute o seguinte comando:
 
 ```
-    java -jav TransformadaFourier.jar
+    java -jar TransformadaFourier.jar
 ```
 
 ## Licença
